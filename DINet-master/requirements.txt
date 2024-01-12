@@ -1,0 +1,9 @@
+opencv_python 
+numpy
+python_speech_features 
+resampy
+scipy
+tensorflow
+torch
+torchvision
+
